@@ -1,6 +1,6 @@
 {
   "name": "new-girl",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "3 main functions:  1) showing a short show plot 2) showing a random character (or a random male/female character 3) showing all characters (or all male/female characters)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

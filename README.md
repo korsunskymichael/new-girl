@@ -1,12 +1,10 @@
-# Welcome to new-girl 👋
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
+# Welcome to new-girl !
 
 ```sh
 
 Hey :)
 
-We are hoping that you are having a good time! 
+I am hoping that you are having a good time! 
 
 ```
 
@@ -18,7 +16,7 @@ This is where it all initiates:
 
     npm install new-girl
     
-Please use this command to install all required dependencies:
+Please use this command in order to install all required dependencies:
     npm install --save
 
 ```
