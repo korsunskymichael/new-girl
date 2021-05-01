@@ -17,6 +17,9 @@ We are hoping that you are having a good time!
 This is where it all initiates: 
 
     npm install new-girl
+    
+Please use this command to install all required dependencies:
+    npm install --save
 
 ```
 
